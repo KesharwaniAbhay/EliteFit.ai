@@ -1,3 +1,6 @@
+# About Project
+
+
 ### How to Run
 Follow these steps to run the application locally:
 
@@ -30,3 +33,5 @@ Open this URL in your browser to view the app.
 
 
 "# EliteFit.ai" 
+
+
